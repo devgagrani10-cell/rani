@@ -1,2 +1,2 @@
-# rani
+# max
 my ai assistant projct
